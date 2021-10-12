@@ -1,6 +1,6 @@
 {
-  "name": "Avaritia",
-  "author": "FOLDIK UA",
+  "name": "Sevtech Addon",
+  "author": "KanzakiMinerMC",
   "version": "0.2 beta",
-  "description": "Порт одноименного мода с пк"
+  "description": "A core for Sevtech Ages BE"
 }
